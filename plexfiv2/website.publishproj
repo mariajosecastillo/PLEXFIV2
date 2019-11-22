@@ -18,9 +18,9 @@ Copyright (C) Microsoft Corporation. Todos los derechos reservados.
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.30319</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{af2a6122-64f9-4bc4-a51d-01c6e3d7ac60}</ProjectGuid>
+    <ProjectGuid>{c12bde9d-30e2-406f-8876-01b97a5af7ad}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
-    <SourceWebVirtualPath>/vs</SourceWebVirtualPath>
+    <SourceWebVirtualPath>/plexfiv2</SourceWebVirtualPath>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <SourceWebProject></SourceWebProject>
     <SourceWebMetabasePath></SourceWebMetabasePath>
